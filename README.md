@@ -1,6 +1,7 @@
 # function-c++-output
 
-<p>
+<p align="center">
+  
 ![Screenshot (214)](https://user-images.githubusercontent.com/114411272/219994858-f5acd363-df32-4e20-883e-6fdcf3267762.png)
 
 ![Screenshot (215)](https://user-images.githubusercontent.com/114411272/219994864-ad5f563b-8bb3-4b2a-b744-e9bd9f8bb57a.png)
